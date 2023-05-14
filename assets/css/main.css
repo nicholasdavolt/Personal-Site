@@ -1347,8 +1347,9 @@ section {
 # Contact Section
 --------------------------------------------------------------*/
 .contact {
-  background: url("../img/contact-bg.png") left top no-repeat;
-  background-size: contain;
+  background: url("../img/pawel-czerwinski--0xCCPIbl3M-unsplash.jpg") left top no-repeat;
+  background-size:cover;
+  background-position: center;
   position: relative;
 }
 
