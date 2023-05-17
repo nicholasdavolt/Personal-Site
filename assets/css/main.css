@@ -1232,7 +1232,7 @@ section {
 .portfolio .portfolio-item .portfolio-info {
   opacity: 0;
   position: absolute;
-  left: 30px;
+  left: 20px;
   right: 30px;
   bottom: 0;
   z-index: 3;
@@ -1258,9 +1258,9 @@ section {
 .portfolio .portfolio-item .portfolio-info .preview-link,
 .portfolio .portfolio-item .portfolio-info .details-link {
   position: absolute;
-  right: 50px;
+  right: 10%;
   font-size: 24px;
-  top: calc(50% - 14px);
+  top: calc(10% - 14px);
   color: rgba(27, 47, 69, 0.7);
   transition: 0.3s;
   line-height: 0;
